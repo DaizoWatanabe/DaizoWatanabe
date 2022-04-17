@@ -8,6 +8,7 @@
 🌱 I’m currently learning:  
 • [Done](https://github.com/DaizoWatanabe/TheWebDeveloperBootcamp2021) ~Web development bootcamp with HTML, CSS, Bootstrap, JavaScript, Ajax, Node.js, ExpressJS, Rest, SQL vs NoSQL, MongoDB, Schema Design, Authentication, Sql Injection, XSS, Cloud Database and more.~   
 • [in progress](https://github.com/DaizoWatanabe/React---The-Complete-Guide-incl-Hooks-React-Router-Redux-) React Complete Guide with Hooks, React Router, Redux, Next.js, Unit tests, TypeScript and more.
+• [in progress](https://github.com/DaizoWatanabe/StartByCapgemini/tree/master/Workspace/TodoApp) Java TodoApp.
 
 
 <!---
