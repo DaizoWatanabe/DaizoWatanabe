@@ -1,9 +1,5 @@
-👋 Hi, I’m @DaizoWatanabe  
-👀 I’m interested in code, reading and opportunities.  
-💞️ I’m looking to collaborate on anything that I can be of help.  
-📫 How to reach me: daizowatanabe@gmail.com  
+## **👋 Hi, I’m @DaizoWatanabe**  
 
-##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaizoWatanabe&hide=issues,contribs&count_private=true&show_icons=true&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaizoWatanabe&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -19,7 +15,8 @@
 </div>
 <br>
 <div style="display: inline_block">
-  Learning: <br> 
+  
+  ### Learning: <br> 
   <img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
   <img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -29,7 +26,7 @@
 ##
 
 
-🌱 I’m currently learning with:  
+### 🌱 I’m currently learning with:  
 • [Done](https://github.com/DaizoWatanabe/TheWebDeveloperBootcamp2021) ~Web development bootcamp with HTML, CSS, Bootstrap, JavaScript, Ajax, Node.js, ExpressJS, Rest, SQL vs NoSQL, MongoDB, Schema Design, Authentication, Sql Injection, XSS, Cloud Database and more.~ (Udemy)   
 • [in progress](https://github.com/DaizoWatanabe/React---The-Complete-Guide-incl-Hooks-React-Router-Redux-) React Complete Guide with Hooks, React Router, Redux, Next.js, Unit tests, TypeScript and more. (Udemy)  
 • [in progress](https://github.com/DaizoWatanabe/StartByCapgemini/tree/master/Workspace/TodoApp) Java TodoApp. (StartByCapgemi)
