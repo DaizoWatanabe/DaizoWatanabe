@@ -1,8 +1,8 @@
 ## **👋 Hi, I’m @DaizoWatanabe**  
 
 <div style="display: inline_block">
-<img width="50.5%" src="https://github-readme-stats.vercel.app/api?username=DaizoWatanabe&hide=issues,contribs&count_private=true&show_icons=true&theme=react">
-<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaizoWatanabe&layout=compact&theme=react">
+<img width="54.5%" src="https://github-readme-stats.vercel.app/api?username=DaizoWatanabe&hide=issues,contribs&count_private=true&show_icons=true&theme=react">
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaizoWatanabe&layout=compact&theme=react">
 </div>
 <br>
 <div style="display: inline_block">
