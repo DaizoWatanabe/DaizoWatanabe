@@ -1,9 +1,11 @@
 ## **👋 Hi, I’m @DaizoWatanabe**  
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaizoWatanabe&hide=issues,contribs&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaizoWatanabe&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+<img width="40.5%" src="https://github-readme-stats.vercel.app/api?username=DaizoWatanabe&hide=issues,contribs&count_private=true&show_icons=true&theme=react">
+<img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaizoWatanabe&layout=compact&theme=react">
+</div>
+<br>
+<div style="display: inline_block">
 <img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
