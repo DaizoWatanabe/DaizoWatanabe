@@ -3,6 +3,38 @@
 💞️ I’m looking to collaborate on anything that I can be of help.  
 📫 How to reach me: daizowatanabe@gmail.com  
 
+<div style="display: inline_block"><br>
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /><br>
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img width="32" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
+</div>  
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaizoWatanabe&hide=issues,contribs&count_private=true&show_icons=true&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaizoWatanabe&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+🌱 I’m currently learning:  
+• [Done](https://github.com/DaizoWatanabe/TheWebDeveloperBootcamp2021) ~Web development bootcamp with HTML, CSS, Bootstrap, JavaScript, Ajax, Node.js, ExpressJS, Rest, SQL vs NoSQL, MongoDB, Schema Design, Authentication, Sql Injection, XSS, Cloud Database and more.~   
+• [in progress](https://github.com/DaizoWatanabe/React---The-Complete-Guide-incl-Hooks-React-Router-Redux-) React Complete Guide with Hooks, React Router, Redux, Next.js, Unit tests, TypeScript and more.  
+• [in progress](https://github.com/DaizoWatanabe/StartByCapgemini/tree/master/Workspace/TodoApp) Java TodoApp.
+
+
+
+
+<!--
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,13 +53,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaizoWatanabe&hide=issues,contribs&count_private=true&show_icons=true&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaizoWatanabe&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-🌱 I’m currently learning:  
-• [Done](https://github.com/DaizoWatanabe/TheWebDeveloperBootcamp2021) ~Web development bootcamp with HTML, CSS, Bootstrap, JavaScript, Ajax, Node.js, ExpressJS, Rest, SQL vs NoSQL, MongoDB, Schema Design, Authentication, Sql Injection, XSS, Cloud Database and more.~   
-• [in progress](https://github.com/DaizoWatanabe/React---The-Complete-Guide-incl-Hooks-React-Router-Redux-) React Complete Guide with Hooks, React Router, Redux, Next.js, Unit tests, TypeScript and more.  
-• [in progress](https://github.com/DaizoWatanabe/StartByCapgemini/tree/master/Workspace/TodoApp) Java TodoApp.
 
 
 <!---
