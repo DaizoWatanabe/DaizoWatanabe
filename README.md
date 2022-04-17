@@ -1,7 +1,7 @@
 ## **👋 Hi, I’m @DaizoWatanabe**  
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaizoWatanabe&hide=issues,contribs&count_private=true&show_icons=true&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaizoWatanabe&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaizoWatanabe&hide=issues,contribs&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaizoWatanabe&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
 <img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -13,7 +13,9 @@
 <img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img aligh="center" width="30" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png">
 </div>
-<br>
+
+##
+
 <div style="display: inline_block">
   
   ### Learning: <br> 
