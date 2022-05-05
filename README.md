@@ -5,33 +5,22 @@
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaizoWatanabe&layout=compact&theme=react">
 </div>
 <br>
-<div style="display: inline_block">
-<img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-<img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img aligh="center" width="30" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png">
-</div>
+
+### Skills
+![My Skills](https://skills.thijs.gg/icons?i=js,html,css,bootstrap,nodejs,express,mongo)
 
 ##
 
-<div style="display: inline_block">
+
   
-  ### Learning: <br> 
-  <img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
-  <img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-  <img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img aligh="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
+  ### Learning <br> 
+
+![My Skills](https://skills.thijs.gg/icons?i=java,mysql,react)
 
 ##
 
 
-### 🌱 I’m currently learning with:  
+### 🌱 I’m currently learning with  
 • [Done](https://github.com/DaizoWatanabe/TheWebDeveloperBootcamp2021) ~Web development bootcamp with HTML, CSS, Bootstrap, JavaScript, Ajax, Node.js, ExpressJS, Rest, SQL vs NoSQL, MongoDB, Schema Design, Authentication, Sql Injection, XSS, Cloud Database and more.~ (Udemy)   
 • [Done](https://github.com/DaizoWatanabe/StartByCapgemini/tree/master/Workspace/TodoApp2) ~Java TodoApp.~ (StartByCapgemi)  
 • [in progress](https://github.com/DaizoWatanabe/React---The-Complete-Guide-incl-Hooks-React-Router-Redux-) React Complete Guide with Hooks, React Router, Redux, Next.js, Unit tests, TypeScript and more. (Udemy)  
@@ -39,9 +28,14 @@
 • [in progress](https://github.com/DaizoWatanabe/HiringCoders-3) Hiring Coders - VTEX Educational Program 
 
 ##
-### Find me here:
+
+### Find me here  
+[![General badge](https://img.shields.io/badge/-Salesforce-informational?style=for-the-badge&logo=salesforce)](https://trailblazer.me/id/dwatanabe5)
 [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daizowatanabe@gmail.com)
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daizo-watanabe-493a2b174/)
+
+
+
 
 
 <!---
