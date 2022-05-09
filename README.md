@@ -32,7 +32,7 @@
 ### Find me here  
 [![General badge](https://img.shields.io/badge/-Salesforce-informational?style=for-the-badge&logo=salesforce)](https://trailblazer.me/id/dwatanabe5)
 [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daizowatanabe@gmail.com)
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daizo-watanabe-493a2b174/)
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daizo-watanabe-493a2b174/)  
 
 
 
